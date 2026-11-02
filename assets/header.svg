@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
-  <title id="title">Yosmangel Adames, frontend developer building full products.</title>
+  <title id="title">Yosmangel Adames, software engineer building full products.</title>
   <style>
     .name { font: 700 64px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f1f5f9; }
     .role { font: 400 26px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #cbd5e1; }
@@ -12,5 +12,5 @@
   <path class="wave back" fill="#0d3d85" d="M0 236 C 160 196 320 276 480 236 S 800 196 960 236 S 1200 276 1320 236 V300 H0 Z" />
   <path class="wave" fill="#1e70e0" d="M0 268 C 160 240 320 296 480 268 S 800 240 960 268 S 1200 296 1320 268 V300 H0 Z" />
   <text class="name" x="64" y="118">Yosmangel Adames</text>
-  <text class="role" x="66" y="164">Frontend developer building full products</text>
+  <text class="role" x="66" y="164">Software engineer building full products</text>
 </svg>

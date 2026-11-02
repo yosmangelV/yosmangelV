@@ -1,8 +1,8 @@
-<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, frontend developer building full products." />
+<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, software engineer building full products." />
 
 [English](README.md) · **Español**
 
-Soy desarrollador frontend en España y me gusta llevar una idea hasta producción. Trabajo sobre todo con Angular y TypeScript, y cada vez construyo más backend por mi cuenta con Python y NestJS.
+Soy ingeniero de software en España y me gusta llevar una idea hasta producción. Trabajo en todo el stack: Angular y TypeScript en el frontend, Python y NestJS en el backend.
 
 [LinkedIn](https://www.linkedin.com/in/yosmangel-adames) · [Todo mi trabajo está en `studio`](https://github.com/yosmangelV/studio)
 
