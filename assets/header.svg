@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Yosmangel Adames, frontend developer building full products.</title>
+  <style>
+    .name { font: 700 64px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f1f5f9; }
+    .role { font: 400 26px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+    .wave { animation: drift 14s ease-in-out infinite alternate; }
+    .wave.back { animation-duration: 20s; animation-direction: alternate-reverse; }
+    @keyframes drift { from { transform: translateX(-60px); } to { transform: translateX(0); } }
+    @media (prefers-reduced-motion: reduce) { .wave { animation: none; } }
+  </style>
+  <rect width="1200" height="300" fill="#0f172a" />
+  <path class="wave back" fill="#1e293b" d="M0 236 C 160 196 320 276 480 236 S 800 196 960 236 S 1200 276 1320 236 V300 H0 Z" />
+  <path class="wave" fill="#c41230" d="M0 268 C 160 240 320 296 480 268 S 800 240 960 268 S 1200 296 1320 268 V300 H0 Z" />
+  <text class="name" x="64" y="118">Yosmangel Adames</text>
+  <text class="role" x="66" y="164">Frontend developer building full products</text>
+</svg>
