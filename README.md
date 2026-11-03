@@ -2,7 +2,7 @@
 
 **English** · [Español](README.es.md)
 
-I'm a senior software engineer based in Spain. I've spent almost five years at Celonis, working mostly with Angular and designing features to fit the wider architecture, from the frontend monorepo to the backend services. I also act as the frontend lead in my team.
+I'm a senior software engineer based in Spain, and I've been building software professionally since 2015. Since 2022 I've been at Celonis, working mostly with Angular and designing features to fit the wider architecture, from the frontend monorepo to the backend services. I also act as the frontend lead in my team.
 
 Outside work, I like taking an idea all the way to production. The projects here are my own and cover the whole stack: Angular and TypeScript on the frontend, Python and NestJS on the backend.
 

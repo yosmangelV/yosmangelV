@@ -2,7 +2,7 @@
 
 [English](README.md) · **Español**
 
-Soy senior software engineer en España. Llevo casi cinco años en Celonis, trabajando sobre todo con Angular y diseñando funcionalidades que encajen en la arquitectura existente, desde el monorepo de frontend hasta los servicios de backend. Además, ejerzo como líder de frontend en mi equipo.
+Soy senior software engineer en España y desarrollo software profesionalmente desde 2015. Desde 2022 estoy en Celonis, donde trabajo sobre todo con Angular y diseño funcionalidades que encajen en la arquitectura existente, desde el monorepo de frontend hasta los servicios de backend. Además, ejerzo como líder de frontend en mi equipo.
 
 Fuera del trabajo, me gusta llevar una idea hasta producción. Los proyectos que verás aquí son míos y cubren todo el stack: Angular y TypeScript en el frontend, Python y NestJS en el backend.
 
