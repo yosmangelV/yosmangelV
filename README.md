@@ -1,10 +1,12 @@
-<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, software engineer building full products." />
+<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, senior software engineer building full products." />
 
 **English** · [Español](README.es.md)
 
-I'm a software engineer based in Spain who likes taking an idea all the way to production. I work across the stack: Angular and TypeScript on the frontend, Python and NestJS on the backend.
+I'm a senior software engineer based in Spain. I've spent almost five years at Celonis, working mostly with Angular and designing features to fit the wider architecture, from the frontend monorepo to the backend services. I also act as the frontend lead in my team.
 
-[LinkedIn](https://www.linkedin.com/in/yosmangel-adames) · [All my work lives in `studio`](https://github.com/yosmangelV/studio)
+Outside work, I like taking an idea all the way to production. The projects here are my own and cover the whole stack: Angular and TypeScript on the frontend, Python and NestJS on the backend.
+
+[LinkedIn](https://www.linkedin.com/in/yosmangel-adames) · [My own projects live in `studio`](https://github.com/yosmangelV/studio)
 
 ## What I'm building
 

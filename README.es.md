@@ -1,10 +1,12 @@
-<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, software engineer building full products." />
+<img src="assets/header.svg" width="100%" alt="Yosmangel Adames, senior software engineer building full products." />
 
 [English](README.md) · **Español**
 
-Soy ingeniero de software en España y me gusta llevar una idea hasta producción. Trabajo en todo el stack: Angular y TypeScript en el frontend, Python y NestJS en el backend.
+Soy senior software engineer en España. Llevo casi cinco años en Celonis, trabajando sobre todo con Angular y diseñando funcionalidades que encajen en la arquitectura existente, desde el monorepo de frontend hasta los servicios de backend. Además, ejerzo como líder de frontend en mi equipo.
 
-[LinkedIn](https://www.linkedin.com/in/yosmangel-adames) · [Todo mi trabajo está en `studio`](https://github.com/yosmangelV/studio)
+Fuera del trabajo, me gusta llevar una idea hasta producción. Los proyectos que verás aquí son míos y cubren todo el stack: Angular y TypeScript en el frontend, Python y NestJS en el backend.
+
+[LinkedIn](https://www.linkedin.com/in/yosmangel-adames) · [Mis proyectos personales están en `studio`](https://github.com/yosmangelV/studio)
 
 ## Qué estoy construyendo
 
