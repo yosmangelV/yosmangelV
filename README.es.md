@@ -18,7 +18,7 @@ Web y app de gestión para escuelas de boxeo: alumnos, pagos y clases. Hoy funci
 Angular · FastAPI · Supabase · [Código](https://github.com/yosmangelV/studio/tree/main/projects/boxing-gym)
 
 ### Announcement Web
-Un anuncio de bebé personalizado, contado como una historia animada. Es privado a propósito: solo lo abren familiares y amigos con su propio enlace, así que no tiene demo pública.
+Un anuncio de bebé personalizado, contado como una historia animada. Está pensado para ser privado: familiares y amigos lo abren desde un enlace con su propio código, así que no tiene demo pública.
 
 Angular · NestJS · MongoDB · [Código](https://github.com/yosmangelV/studio/tree/main/projects/announcement-web)
 
